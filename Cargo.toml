@@ -16,7 +16,6 @@ exclude = ["docs/*"]
 
 [package.metadata.docs.rs]
 no-default-features = true
-
 [features]
 default = ["clipboard", "bevy_pbr", "bevy_sprite", "bevy_text", "bevy_ui"]
 
